@@ -22,6 +22,6 @@ Veri kümesindeki örnek sayısı: 10 x 100 = 1000 klavye kullanım verisi
 
 **Veri kümesi üzerinde yapılan çalışmaya dair yayın:**
 
-Dergipark: https://dergipark.org.tr/tr/pub/sdufenbed/issue/39132/501503
+DergiPark: https://dergipark.org.tr/tr/pub/sdufenbed/issue/39132/501503
 
 ResearchGate: https://www.researchgate.net/publication/329895663_Tus_Vurus_Dinamikleri_ile_Klavye_Kullanim_Stiline_Dayali_Kullanici_Tanima
